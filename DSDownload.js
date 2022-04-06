@@ -5,13 +5,13 @@ hostname= api.revenuecat.com
 
 var obj = JSON.parse($response.body);
 obj = {
-    "request_date_ms" : 1642154193189,
-    "request_date" : "2022-01-14T09:56:33Z",
+    "request_date_ms" : 1649208438000,
+    "request_date" : "2022-01-01T00:00:00Z",
     "subscriber" : {
       "non_subscriptions" : {
   
       },
-      "first_seen" : "2022-01-12T02:04:31Z",
+      "first_seen" : "2022-01-01T00:00:00Z",
       "original_application_version" : "59",
       "other_purchases" : {
   
@@ -22,26 +22,26 @@ obj = {
           "is_sandbox" : false,
           "ownership_type" : "PURCHASED",
           "billing_issues_detected_at" : null,
-          "period_type" : "trial",
-          "expires_date" : "2099-01-17T09:56:28Z",
+          "period_type" : "normal",
+          "expires_date" : "2099-01-01T00:00:00Z",
           "grace_period_expires_date" : null,
           "unsubscribe_detected_at" : null,
-          "original_purchase_date" : "2022-01-14T09:56:29Z",
-          "purchase_date" : "2022-01-14T09:56:28Z",
+          "original_purchase_date" : "2022-01-01T00:00:00Z",
+          "purchase_date" : "2022-01-01T00:00:00Z",
           "store" : "app_store"
         }
       },
       "entitlements" : {
         "Unlimited" : {
           "grace_period_expires_date" : null,
-          "purchase_date" : "2022-01-14T09:56:28Z",
+          "purchase_date" : "2022-01-01T00:00:00Z",
           "product_identifier" : "dsdownload.app.subscription.1year.d",
-          "expires_date" : "2099-01-17T09:56:28Z"
+          "expires_date" : "2099-01-01T00:00:00Z"
         }
       },
-      "original_purchase_date" : "2022-01-12T01:58:46Z",
-      "original_app_user_id" : "$RCAnonymousID:01f1b5dfd871470b870535de6d222c62",
-      "last_seen" : "2022-01-14T09:32:37Z"
+      "original_purchase_date" : "2022-01-01T00:00:00Z",
+      "original_app_user_id" : "$RCAnonymousID:d59eae2f029b9d232c46e7fa9d709a1b",
+      "last_seen" : "2022-01-01T00:00:00Z"
     }
   }
   ;
