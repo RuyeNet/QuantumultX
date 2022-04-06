@@ -1,6 +1,6 @@
 /* 
 [Script]
-DSDownload = type=http-response,script-path=Script/DSDownload.js,pattern=https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts),max-size=131072,requires-body=true,timeout=10,enable=true
+DSDownload = type=http-response,script-path=https://raw.githubusercontent.com/RuyeNet/QuantumultX/main/DSDownload.js,pattern=https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts),max-size=131072,requires-body=true,timeout=10,enable=true
 [MITM]
 hostname = api.revenuecat.com
 */
