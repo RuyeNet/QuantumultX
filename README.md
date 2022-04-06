@@ -1,2 +1,2 @@
 # QuantumultX
-Look Look B
+YYDS
