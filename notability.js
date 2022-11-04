@@ -1,5 +1,6 @@
 /*
 Notability Premium Unlock
+https:\/\/notability.com\/subscriptions url script-response-body https://raw.githubusercontent.com/RuyeNet/QuantumultX/main/notability.js
 
 By @RuyeNet
 
