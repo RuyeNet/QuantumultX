@@ -1,5 +1,5 @@
 /*
-https:\/\/license\.pdfexpert\.com\/api\/2\.0\/documents\/subscription\/refresh url script-response-body https://raw.githubusercontent.com/RuyeNet/QuantumultX/main/DocumentsCrack.js
+https:\/\/license\.pdfexpert\.com\/api\/2\.0\/documents\/subscription\/refresh url script-response-body https://raw.githubusercontent.com/RuyeNet/QuantumultX/main/Documents.js
 hostname= license.pdfexpert.com
 */
 
