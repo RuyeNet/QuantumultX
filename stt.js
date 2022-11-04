@@ -1,5 +1,6 @@
 /*
 shititong unlock
+https:\/\/shiti\.qipeixing\.cn\/java\-Maven\-0\.0\.1\-Shititong\/api\/(member\/(personalData|testaccredit)|sttExamination\/newQuerySaosao.*) url script-response-body https://raw.githubusercontent.com/RuyeNet/QuantumultX/main/stt.js
 
 By @RuyeNet
 
